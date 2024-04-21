@@ -9,6 +9,7 @@ For more information, please refer to the following:
 
 ---
 MAWNO is a neural operator method that combines wavelet transform and self-attention, and its structure is as follows.
+
 ![structure](./fig/MAWNO_Architecture.png)
 
 [//]: # ( &#40;<img src="./fig/structure.png" alt="structure" width="400" height="400">&#41;)

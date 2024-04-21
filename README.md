@@ -4,7 +4,7 @@
 This repository contains the code implementation of the **Multiscale Attention Wavelet Neural Operator for Capturing Steep Trajectories in Biochemical System**
 
 For more information, please refer to the following: 
-+ Jiayang Su,Junbo Ma, Songyang Tong, Enze Xu, and Minghan Chen "[Multiscale Attention Wavelet Neural Operator for Capturing Steep Trajectories in Biochemical Systems[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(13): 15100-15107.](https://ojs.aaai.org/index.php/AAAI/article/view/29432)"
++ Jiayang Su, Junbo Ma, Songyang Tong, Enze Xu, and Minghan Chen "[Multiscale Attention Wavelet Neural Operator for Capturing Steep Trajectories in Biochemical Systems[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(13): 15100-15107.](https://ojs.aaai.org/index.php/AAAI/article/view/29432)"
 # MAWNO Structure
 
 ---

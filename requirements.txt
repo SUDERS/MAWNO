@@ -1,0 +1,4 @@
+PyWavelets
+scipy  >= 1.7.3
+pytorch
+numpy >= 1.21.5

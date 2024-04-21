@@ -1,4 +1,4 @@
-## introduction
+## Introduction
 
 ---
 This repository contains the code implementation of the **Multiscale Attention Wavelet Neural Operator for Capturing Steep Trajectories in Biochemical System**
